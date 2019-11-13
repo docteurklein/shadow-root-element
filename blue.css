@@ -1,1 +1,7 @@
-:host, :root { color: blue; }
+:host, * {
+    all: initial;
+}
+
+* {
+    color: blue;
+}
